@@ -16,7 +16,7 @@ esta cuenca es de gran importancia, cuenta con una superficie aproximada de 32.5
 también genera 39,5 MW de energía, 11 hidroeléctrica y proporciona agua de riego para 2.900 usuarios, cubriendo un total de 1.900 ha, 
 dedicadas a la producción agropecuaria (*Argüello Ruiz, 2020*; *Ministerio de Ambiente, Agua y Transición Ecológica et al., 2022*).
 
-![Mapa del Área de estudio, Autor: Isabel Chumi](mapa 3_2.png)
+![Mapa del Área de estudio, Autor: Isabel Chumi](mapa3_2.png)
 
 ## Metodología
 A continuación, se describe como fueron aplicadas cada una de las metodologías.
