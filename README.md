@@ -7,7 +7,10 @@ de la junta de riego ya que el objetivo del estudio es conocer la disparidad de 
 Varios estudios mencionan qye la división de género impuesta por las normas laborales y sociales adjudica numerosas responsabilidades relacionadas con el agua a la mujer, 
 mientras que otorgan la mayoría de los poderes y derechos sobre este recurso a los hombres (*Anderson, 2011; Naciones Unidas, 2012*). 
 
-![Usuarios de la Junta de Riego y Drenaje Machángara, Autor: Isabel Chumi](aplicacion_encuesta.JPG)
+<figure>
+  <img src="aplicacion_encuesta.JPG" alt="Usuarios de la Junta de Riego y Drenaje Machángara" width="100%">
+  <figcaption><i>Usuarios de la Junta de Riego y Drenaje Machángara. Autor: Isabel Chumi.</i></figcaption>
+</figure>
 
 ## Área de estudio
 El presente estudio se realizó en la Junta de Riego y Drenaje Machángara, perteneciente a la cuenca del río Machángara, 
