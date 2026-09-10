@@ -4,8 +4,7 @@ caso de estudio de la Junta de Riego y Drenaje Machángara. Estos datos se obtuv
 a 262 usuarios de diferentes tomas de agua***. Los **datos desglosados por sexo**, son datos que permiten *detectar brechas económicas, 
 sociales o de salud entre ambos sexos* (como diferencias salariales o acceso a recursos). Para este caso se levanto información de hombres y mujeres 
 de la junta de riego ya que el objetivo del estudio es conocer la disparidad de género en la gestión de los recursos hídricos.
-Varios estudios mencionan qye la división de género impuesta por las normas laborales y sociales adjudica numerosas responsabilidades relacionadas con el agua a la mujer, 
-mientras que otorgan la mayoría de los poderes y derechos sobre este recurso a los hombres (*Anderson, 2011; Naciones Unidas, 2012*). 
+Varios estudios mencionan qye la división de género impuesta por las normas laborales y sociales adjudica numerosas responsabilidades relacionadas con el agua a la mujer, mientras que otorgan la mayoría de los poderes y derechos sobre este recurso a los hombres (*Anderson, 2011; Naciones Unidas, 2012*). 
 
 <figure>
   <img src="aplicacion_encuesta.JPG" alt="Usuarios de la Junta de Riego y Drenaje Machángara" width="100%">
