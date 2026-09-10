@@ -19,7 +19,10 @@ esta cuenca es de gran importancia, cuenta con una superficie aproximada de 32.5
 también genera 39,5 MW de energía, 11 hidroeléctrica y proporciona agua de riego para 2.900 usuarios, cubriendo un total de 1.900 ha, 
 dedicadas a la producción agropecuaria (*Argüello Ruiz, 2020*; *Ministerio de Ambiente, Agua y Transición Ecológica et al., 2022*).
 
-![Mapa del Área de estudio, Autor: Isabel Chumi](mapa_3_2.png)
+<figure>
+  <img src="mapa_3_2.png" alt="Mapa del Área de estudio" width="100%">
+  <figcaption><i>Mapa del Área de estudio, Autor: Isabel Chumi.</i></figcaption>
+</figure>
 
 ## Metodología
 A continuación, se describe como fueron aplicadas cada una de las metodologías.
@@ -31,7 +34,11 @@ y Sección tres: Datos de la directiva de la Junta de Riego y Drenaje Machángar
 De las 17 preguntas, 14 preguntas estaban dirigidas a hombres y mujeres encuestadas, por otro lado, existieron tres preguntas dirigidas solo a mujeres 
 con el objetivo de conocer sus percepciones con relación a la gestión del recurso hídrico. 
 
-![Metodología de aplicación de encuestas, Autor: Isabel Chumi](metodologia.png)
+<figure>
+  <img src="metodologia.png" alt="Metodología de aplicación de encuestas" width="100%">
+  <figcaption><i>Metodología de aplicación de encuestas, Autor: Isabel Chumi.</i></figcaption>
+</figure>
+
 
 ## Problemas que desea resolver o preguntas que espera contestar con los datos.
 1. Conocer cuáles son los factores que inciden para que las mujeres sean tomadoras de decisiones.
